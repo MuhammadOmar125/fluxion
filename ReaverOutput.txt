@@ -1,0 +1,6 @@
+
+Reaver v1.5.2 WiFi Protected Setup Attack Tool
+Copyright (c) 2011, Tactical Network Solutions, Craig Heffner <cheffner@tacnetsol.com>
+mod by t6_x <t6_x@hotmail.com> & DataHead & Soxrok2212
+
+[+] Switching '/root/handshakes/PTCL-BB-34:BF:90:25:F5:CD.cap' to channel 6
